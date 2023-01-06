@@ -1,6 +1,6 @@
 # Arachnopol
 
-Aplikacja na telefon z systemem operacyjnym Android pomocna w leczeniu arachnofobii. Wykorzystuje technologię rzeczywistości rozszerzonej (AR). Powstała przy użyciu platformy Unity.
+Aplikacja na telefon z systemem operacyjnym Android pomocna w leczeniu arachnofobii. Wykorzystuje technologię rzeczywistości rozszerzonej (AR). Powstała przy użyciu silnika gier Unity.
 
 *Uploadowane pliki zawierają jedynie kod programu i plik *.apk, który umożlwia zainstalowanie aplikacji na swoim smartfonie. Nie zawierają plików potrzebnych w procesie tworzenia aplikacji.
 
