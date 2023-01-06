@@ -11,3 +11,6 @@ Przykładowe screenshoty:
 ![level18](https://user-images.githubusercontent.com/74016088/211013503-f0989682-6b33-48b5-9adc-a5323eac1634.jpg)
 ![level11](https://user-images.githubusercontent.com/74016088/211013518-46a88717-263a-4784-a8c9-80f4d4715e6a.jpg)
 ![level23](https://user-images.githubusercontent.com/74016088/211013534-68a074ba-9cda-41a6-96e3-582dab3426c5.jpg)
+![level10](https://user-images.githubusercontent.com/74016088/211013905-942f6081-f95f-4034-a8c5-ccef233029c8.jpg)
+![level22](https://user-images.githubusercontent.com/74016088/211013906-84ec920c-7eb0-40ff-9369-dfcf53019f59.jpg)
+![level1](https://user-images.githubusercontent.com/74016088/211013907-3c4b7f1b-6305-488d-bd71-87d7a590a0ba.jpg)
